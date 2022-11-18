@@ -41,7 +41,7 @@
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="center" width="33%">
 
 <a href="https://github.com/electricalgorithm" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -63,6 +63,3 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=electricalgorithm&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
