@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on [Sixfab](https://sixfab.com) as a part-time embedded developer.  
   
 
-- 🌱 Trying to improve myself in the area of AI via courses.  
+- 🌱 Trying to improve myself in the area of TinyML. 
   
 
-- ⚡ The topics I want to learn in my free time: Rust,   
+- ⚡ Check out the projects I pinned on the bellow!
   
 
 <br/>  
