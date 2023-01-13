@@ -60,3 +60,8 @@
 - [**DecisionTree-InformativeGain**](https://github.com/electricalgorithm/DecisionTree-InformationGain): A decision tree library that I've written from scratch. It uses informative gain as splitting method.
 - [**QualityConrolMirrorProduction**](https://github.com/electricalgorithm/QualityConrolMirrorProduction): It is an proof-of-concept tool to perform quality controls on mirror production. It works on prepared environment with Raspberry Pi as the controller. I created it while my internship on YongaTek.
 - [**ConveyorBandEdgeDetection**](https://github.com/electricalgorithm/ConveyorBandEdgeDetection): A tool to predict edges of a conveyor band. It only uses image processing techniques. I created it while my internship on YongaTek.
+##### Quantum Computing
+- [**QuantumFourierTransform**](https://github.com/electricalgorithm/QuantumFourierTransform): This algorithm lets you to apply DFT to a state with quantum circuits. It has decreased the complexity to O(NlogN) from classical O(N^2) approach.
+- [**BernsteinVaziraniAlgorithm**](https://github.com/electricalgorithm/BernsteinVaziraniAlgorithm): Find a secret number with O(1) complexity using Quantum Computing instead of classical O(n) approach.
+- [**DeutschJozsaAlgorithm**](https://github.com/electricalgorithm/DeutschJozsaAlgorithm): This algorithm lets you to find a the type of a binary function in O(1) complexity instead of classical O(n/2) approach.
+- [**QuantumTeleportation**](https://github.com/electricalgorithm/QuantumTeleportation): This script is a simple implementation on Quantum Teleportation theorem.
