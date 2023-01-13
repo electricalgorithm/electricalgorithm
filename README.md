@@ -13,9 +13,6 @@
 <br/>  
 
 <table><tr><td valign="top" width="33%">
-
-
-
 ### Languages  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -55,6 +52,14 @@
 <a href="https://medium.com/@physicalgorithm" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+</td></tr></table>
 
-
-</td></tr></table>  
+### Projects and Categories
+##### Artificial Intelligence and Computer Vision
+- [**ClassicGeneticAlgorithm4PID**](https://github.com/electricalgorithm/ClassicGeneticAlgorithm4PID): This is a learning algorithm to find best PID controller gains with genetic algorithm. It has an API and GUI interfaces to implement for your own project.
+- [**NCLAHE-ShallowCNN-COVID19**](https://github.com/electricalgorithm/NCLAHE-ShallowCNN-COVID19): A Shallow CNN model which classifies COVID-19 X chest x-rays. The original point is to have adaptive histogram equalization as a preprocessing step. It uses Tensorflow.
+- [**RestaurantReviewClasifer**](https://github.com/electricalgorithm/RestaurantReviewClassifier): A natural langunage processing application which is written from scratch (no ML library used). I've used logistic regression to create the model.
+- [**Vectofil+**](https://github.com/electricalgorithm/vectofil): A GUI tool to reduce vector-based filters to your image. Vector-based filters are commonly used on image enhancement to reduce noises. I've implemented BVDF, VMF, and their combination filter. This combination filter has a setting to change percentage of each filter in operation.
+- [**DecisionTree-InformativeGain**](https://github.com/electricalgorithm/DecisionTree-InformationGain): A decision tree library that I've written from scratch. It uses informative gain as splitting method.
+- [**QualityConrolMirrorProduction**](https://github.com/electricalgorithm/QualityConrolMirrorProduction): It is an proof-of-concept tool to perform quality controls on mirror production. It works on prepared environment with Raspberry Pi as the controller. I created it while my internship on YongaTek.
+- [**ConveyorBandEdgeDetection**](https://github.com/electricalgorithm/ConveyorBandEdgeDetection): A tool to predict edges of a conveyor band. It only uses image processing techniques. I created it while my internship on YongaTek.
