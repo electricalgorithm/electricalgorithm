@@ -1,18 +1,15 @@
-### <div align="center">I'm Gökhan (aka Gyokhan) - whose interested in AI and IoT</div>  
+### <div align="center">I'm Gökhan - whose interested in AI and IoT</div>  
   
 
 - 🔭 I’m currently working on [Sixfab](https://sixfab.com) as a part-time embedded developer.  
-  
-
 - 🌱 Trying to improve myself in the area of TinyML. 
-  
-
 - ⚡ Check out the projects I pinned on the bellow!
   
 
 <br/>  
 
 <table><tr><td valign="top" width="33%">
+  
 ### Languages  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -58,7 +55,7 @@
 ##### Artificial Intelligence and Computer Vision
 - [**ClassicGeneticAlgorithm4PID**](https://github.com/electricalgorithm/ClassicGeneticAlgorithm4PID): This is a learning algorithm to find best PID controller gains with genetic algorithm. It has an API and GUI interfaces to implement for your own project.
 - [**NCLAHE-ShallowCNN-COVID19**](https://github.com/electricalgorithm/NCLAHE-ShallowCNN-COVID19): A Shallow CNN model which classifies COVID-19 X chest x-rays. The original point is to have adaptive histogram equalization as a preprocessing step. It uses Tensorflow.
-- [**RestaurantReviewClasifer**](https://github.com/electricalgorithm/RestaurantReviewClassifier): A natural langunage processing application which is written from scratch (no ML library used). I've used logistic regression to create the model.
+- [**RestaurantReviewClasifer**](https://github.com/electricalgorithm/RestaurantReviewClassifier): A natural language processing application which is written from scratch (no ML library used). I've used logistic regression to create the model.
 - [**Vectofil+**](https://github.com/electricalgorithm/vectofil): A GUI tool to reduce vector-based filters to your image. Vector-based filters are commonly used on image enhancement to reduce noises. I've implemented BVDF, VMF, and their combination filter. This combination filter has a setting to change percentage of each filter in operation.
 - [**DecisionTree-InformativeGain**](https://github.com/electricalgorithm/DecisionTree-InformationGain): A decision tree library that I've written from scratch. It uses informative gain as splitting method.
 - [**QualityConrolMirrorProduction**](https://github.com/electricalgorithm/QualityConrolMirrorProduction): It is an proof-of-concept tool to perform quality controls on mirror production. It works on prepared environment with Raspberry Pi as the controller. I created it while my internship on YongaTek.
