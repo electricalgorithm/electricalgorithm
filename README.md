@@ -68,10 +68,21 @@
 - [**Quantum Teleportation**](https://github.com/electricalgorithm/QuantumTeleportation): This script is a simple implementation on Quantum Teleportation theorem.
 
 ##### Embedded Applications
+- [**Compfilex**](https://github.com/electricalgorithm/compfilex): A web/embedded application suite which lets you to connect your composite filament extruder to the web application and control it everywhere. This project was funded by TUBITAK.
 - [**Pico W Web Server**](https://github.com/electricalgorithm/pico-w-webserver): A MicroPython server which runs on Pico-W boards.
 - [**Telit C SDK for RP2040**](https://github.com/electricalgorithm/RP2040-Telit-C-SDK): I've created an functional API to use Telit modem with RP2040 microcontroller. This project is not completed since I've not seperated the API, however, it can be thought as a boilerplate. Written using RP2040 C SDK.
 - [**4 Digit 7 Segment Display Driver in VHDL**](https://www.electricalgorithm.xyz/4-digit-7-segment-display-vhdl/): It is a chip that drives seven segment displays with inputs as BCD numbers. I've used moduler approach to create the mechanism which let's you easily change the project for your needs.
 - [**Fixed Sequence Traffic Light Controller in VHDL**](https://www.electricalgorithm.xyz/fixed-sequence-traffic-light-controller/): It is a controller chip designed with state machine principles to control fixed-sequence traffic lights.
 - [**Sparkfun Qwiic Keypad Library for MicroPython**](https://github.com/electricalgorithm/micropython-qwiic-keypad): MicroPython library for using Sparkfun's Qwiic Keypad with 12-buttons.
-- [**A Raspberry Pi Car with Camera**](https://github.com/electricalgorithm/invdef_server): This project has been created for controlling a car with Raspberry Pi which has two-sided encrypted communication with remote controller and a camera sender with high FPS.
+- [**A Raspberry Pi Car with Camera**](https://github.com/electricalgorithm/invdef_server): This project has been created for controlling a car with Raspberry Pi which has two-sided encrypted communication with remote controller and a camera sender with high FPS. This project was funded by TUBITAK.
 - [**Introduction to VHDL with Projects**](https://github.com/electricalgorithm/introduction-to-VHDL-projects): The project I've implented on VHDL while learning FPGAs.
+- [**mbed Application Development**](https://github.com/electricalgorithm/marun-cse2037): This repository includes the files and software examples to train yourself for ARM mbed usage.
+
+##### Others
+- [**Liyakat**](https://github.com/electricalgorithm/liyakat): A web platform to collect entries, handles a voting each month, and to show previously voted best entry.
+- [**Mobile Application for Controlling RPi Car**](https://github.com/electricalgorithm/invisible-defender): It lets you to have encrypted communication with real-time camera to control your Raspberry Pi. It is created using Python :)
+- [**Screen Extender to Android**](https://github.com/electricalgorithm/extend-screen-to-android): It is a counter-attack to Samsung's second screen feature! Tested on Debian-based distros and Samsung Galaxy tab. It needs cable connection.
+- [**3D Conway's Game of Life**](https://github.com/electricalgorithm/3D-Conways-Game-of-Life): This implementation is important due to its unlimited-map feature and new capabilities on 3D space. The life rules can be changed with the API.
+- [**Multiprocessing with CUDA**](https://github.com/electricalgorithm/CUDAOgrenme): I've created this repository for the training of CUDA.
+- [**llstring.h**](https://github.com/electricalgorithm/llstring.h): The double-sided linked list implementation of C's string.h library.
+- [**pdfmora**](https://github.com/electricalgorithm/pdfmora): A tool to download sequential PDFs from an URL pattern.
