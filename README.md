@@ -53,15 +53,25 @@
 
 ### Projects and Categories
 ##### Artificial Intelligence and Computer Vision
-- [**ClassicGeneticAlgorithm4PID**](https://github.com/electricalgorithm/ClassicGeneticAlgorithm4PID): This is a learning algorithm to find best PID controller gains with genetic algorithm. It has an API and GUI interfaces to implement for your own project.
-- [**NCLAHE-ShallowCNN-COVID19**](https://github.com/electricalgorithm/NCLAHE-ShallowCNN-COVID19): A Shallow CNN model which classifies COVID-19 X chest x-rays. The original point is to have adaptive histogram equalization as a preprocessing step. It uses Tensorflow.
-- [**RestaurantReviewClasifer**](https://github.com/electricalgorithm/RestaurantReviewClassifier): A natural language processing application which is written from scratch (no ML library used). I've used logistic regression to create the model.
+- [**Classic Genetic Algorithm for PID Tunning**](https://github.com/electricalgorithm/ClassicGeneticAlgorithm4PID): This is a learning algorithm to find best PID controller gains with genetic algorithm. It has an API and GUI interfaces to implement for your own project.
+- [**Shallow CNN for COVID19 with CLAHE Preprocessing**](https://github.com/electricalgorithm/NCLAHE-ShallowCNN-COVID19): A Shallow CNN model which classifies COVID-19 X chest x-rays. The original point is to have adaptive histogram equalization as a preprocessing step. It uses Tensorflow.
+- [**Restaurant Review Binary Clasifer**](https://github.com/electricalgorithm/RestaurantReviewClassifier): A natural language processing application which is written from scratch (no ML library used). I've used logistic regression to create the model.
 - [**Vectofil+**](https://github.com/electricalgorithm/vectofil): A GUI tool to reduce vector-based filters to your image. Vector-based filters are commonly used on image enhancement to reduce noises. I've implemented BVDF, VMF, and their combination filter. This combination filter has a setting to change percentage of each filter in operation.
-- [**DecisionTree-InformativeGain**](https://github.com/electricalgorithm/DecisionTree-InformationGain): A decision tree library that I've written from scratch. It uses informative gain as splitting method.
-- [**QualityConrolMirrorProduction**](https://github.com/electricalgorithm/QualityConrolMirrorProduction): It is an proof-of-concept tool to perform quality controls on mirror production. It works on prepared environment with Raspberry Pi as the controller. I created it while my internship on YongaTek.
-- [**ConveyorBandEdgeDetection**](https://github.com/electricalgorithm/ConveyorBandEdgeDetection): A tool to predict edges of a conveyor band. It only uses image processing techniques. I created it while my internship on YongaTek.
+- [**Decision Tree with Information Gain Splitting**](https://github.com/electricalgorithm/DecisionTree-InformationGain): A decision tree library that I've written from scratch. It uses informative gain as splitting method.
+- [**Quality Conrol on Mirror Production**](https://github.com/electricalgorithm/QualityConrolMirrorProduction): It is an proof-of-concept tool to perform quality controls on mirror production. It works on prepared environment with Raspberry Pi as the controller. I created it while my internship on YongaTek.
+- [**Edge Detection of Conveyor Bands**](https://github.com/electricalgorithm/ConveyorBandEdgeDetection): A tool to predict edges of a conveyor band. It only uses image processing techniques. I created it while my internship on YongaTek.
+
 ##### Quantum Computing
-- [**QuantumFourierTransform**](https://github.com/electricalgorithm/QuantumFourierTransform): This algorithm lets you to apply DFT to a state with quantum circuits. It has decreased the complexity to O(NlogN) from classical O(N^2) approach.
-- [**BernsteinVaziraniAlgorithm**](https://github.com/electricalgorithm/BernsteinVaziraniAlgorithm): Find a secret number with O(1) complexity using Quantum Computing instead of classical O(n) approach.
-- [**DeutschJozsaAlgorithm**](https://github.com/electricalgorithm/DeutschJozsaAlgorithm): This algorithm lets you to find a the type of a binary function in O(1) complexity instead of classical O(n/2) approach.
-- [**QuantumTeleportation**](https://github.com/electricalgorithm/QuantumTeleportation): This script is a simple implementation on Quantum Teleportation theorem.
+- [**Quantum Fourier Transform**](https://github.com/electricalgorithm/QuantumFourierTransform): This algorithm lets you to apply DFT to a state with quantum circuits. It has decreased the complexity to O(NlogN) from classical O(N^2) approach.
+- [**Bernstein Vazirani Algorithm**](https://github.com/electricalgorithm/BernsteinVaziraniAlgorithm): Find a secret number with O(1) complexity using Quantum Computing instead of classical O(n) approach.
+- [**Deutsch-Jozsa Algorithm**](https://github.com/electricalgorithm/DeutschJozsaAlgorithm): This algorithm lets you to find a the type of a binary function in O(1) complexity instead of classical O(n/2) approach.
+- [**Quantum Teleportation**](https://github.com/electricalgorithm/QuantumTeleportation): This script is a simple implementation on Quantum Teleportation theorem.
+
+##### Embedded Applications
+- [**Pico W Web Server**](https://github.com/electricalgorithm/pico-w-webserver): A MicroPython server which runs on Pico-W boards.
+- [**Telit C SDK for RP2040**](https://github.com/electricalgorithm/RP2040-Telit-C-SDK): I've created an functional API to use Telit modem with RP2040 microcontroller. This project is not completed since I've not seperated the API, however, it can be thought as a boilerplate. Written using RP2040 C SDK.
+- [**4 Digit 7 Segment Display Driver in VHDL**](https://www.electricalgorithm.xyz/4-digit-7-segment-display-vhdl/): It is a chip that drives seven segment displays with inputs as BCD numbers. I've used moduler approach to create the mechanism which let's you easily change the project for your needs.
+- [**Fixed Sequence Traffic Light Controller in VHDL**](https://www.electricalgorithm.xyz/fixed-sequence-traffic-light-controller/): It is a controller chip designed with state machine principles to control fixed-sequence traffic lights.
+- [**Sparkfun Qwiic Keypad Library for MicroPython**](https://github.com/electricalgorithm/micropython-qwiic-keypad): MicroPython library for using Sparkfun's Qwiic Keypad with 12-buttons.
+- [**A Raspberry Pi Car with Camera**](https://github.com/electricalgorithm/invdef_server): This project has been created for controlling a car with Raspberry Pi which has two-sided encrypted communication with remote controller and a camera sender with high FPS.
+- [**Introduction to VHDL with Projects**](https://github.com/electricalgorithm/introduction-to-VHDL-projects): The project I've implented on VHDL while learning FPGAs.
