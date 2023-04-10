@@ -68,6 +68,7 @@
 - [**Quantum Teleportation**](https://github.com/electricalgorithm/QuantumTeleportation): This script is a simple implementation on Quantum Teleportation theorem.
 
 ##### Embedded Applications
+- [**BME280 Sensor Reading to Bluetooth LE**](https://github.com/electricalgorithm/house-enviromental-sensing): A Zephyr RTOS application which acts as a BLE peripheral for environmental sensing device for houses. It uses real time operating systems, threads and semaphore concepts.
 - [**Compfilex**](https://github.com/electricalgorithm/compfilex): A web/embedded application suite which lets you to connect your composite filament extruder to the web application and control it everywhere. This project was funded by TUBITAK.
 - [**Pico W Web Server**](https://github.com/electricalgorithm/pico-w-webserver): A MicroPython server which runs on Pico-W boards.
 - [**Telit C SDK for RP2040**](https://github.com/electricalgorithm/RP2040-Telit-C-SDK): I've created an functional API to use Telit modem with RP2040 microcontroller. This project is not completed since I've not seperated the API, however, it can be thought as a boilerplate. Written using RP2040 C SDK.
