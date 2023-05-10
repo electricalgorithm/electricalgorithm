@@ -1,7 +1,5 @@
-### <div align="center">I'm Gökhan - whose interested in AI and IoT</div>  
-  
+### <div align="center">I'm Gökhan - whose interested in AI and IoT</div> 
 
-- 🔭 I’m currently working on [Sixfab](https://sixfab.com) as a part-time embedded developer.  
 - 🌱 Trying to improve myself in the area of TinyML. 
 - ⚡ Check out the projects I pinned on the bellow!
   
