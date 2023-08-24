@@ -51,6 +51,7 @@
 
 ### Projects and Categories
 ##### Artificial Intelligence and Computer Vision
+- [**Rubie's Steganography**](https://github.com/electricalgorithm/rubies-steganography): An encoder-decoder for hiding two different images into one carrier image with using Fast Fourier Transform. The decoding mechanism is automatic, that does not need any information from encoder. 
 - [**Classic Genetic Algorithm for PID Tunning**](https://github.com/electricalgorithm/ClassicGeneticAlgorithm4PID): This is a learning algorithm to find best PID controller gains with genetic algorithm. It has an API and GUI interfaces to implement for your own project.
 - [**Shallow CNN for COVID19 with CLAHE Preprocessing**](https://github.com/electricalgorithm/NCLAHE-ShallowCNN-COVID19): A Shallow CNN model which classifies COVID-19 X chest x-rays. The original point is to have adaptive histogram equalization as a preprocessing step. It uses Tensorflow.
 - [**Restaurant Review Binary Clasifer**](https://github.com/electricalgorithm/RestaurantReviewClassifier): A natural language processing application which is written from scratch (no ML library used). I've used logistic regression to create the model.
